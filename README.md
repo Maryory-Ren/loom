@@ -12,10 +12,10 @@
 ## Estructura del proyecto
 
 scripts/
-- 01_Tablas.sql
-- 02_Inserciones.sql
-- 03_Consultas.sql
-- 04_Procedimientos_Triggers.sql
+- 01_TablasF.sql
+- 02_InsercionesF.sql
+- 03_ConsultasF.sql
+- 04_Procedimientos_Triggers_F.sql
 
 Documentos/
 - Propuesta Dominio y justificación
